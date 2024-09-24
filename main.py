@@ -4,12 +4,16 @@ from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.vectorstores import FAISS
 from langchain.docstore.document import Document
 from jira import JIRA
-from settings import * 
+from config.settings import *
+import sqlite3
+
 
 # Load CSV data from settings
 def load_data():
-    data = pd.read_csv(CSV_FILE_PATH)
-    
+    # data = pd.read_csv(CSV_FILE_PATH)
+    conn = sqlite3.connect(DB_PATH)
+    data = pd.read_sql_query(SELECT_QRY, conn)
+
     # Ensure the Positive_Counter and Negative_Counter columns exist
     if 'Positive_Counter' not in data.columns:
         data['Positive_Counter'] = 0
@@ -23,8 +27,8 @@ def load_data():
 def create_faiss_vectorstore(df):
     documents = [
         Document(
-            page_content=f"Issue Type: {row['Issue Type']}\nRCA: {row['RCA']}\nSteps to Resolve: {row['Steps to Resolve']}",
-            metadata={"Issue Type": row["Issue Type"], "RCA": row["RCA"], "Steps to Resolve": row["Steps to Resolve"]}
+            page_content=f"Issue Type: {row['Issue_Type']}\nRCA: {row['RCA']}\nSteps to Resolve: {row['Steps_to_Resolve']}",
+            metadata={"Issue Type": row["Issue_Type"], "RCA": row["RCA"], "Steps to Resolve": row["Steps_to_Resolve"]}
         )
         for _, row in df.iterrows()
     ]
@@ -60,7 +64,7 @@ def create_jira_ticket(summary, description):
     return new_issue
 # Update the "Positive_Counter" or "Negative_Counter" based on user feedback
 def update_feedback_counter(df, issue_type, rca, feedback_type):
-    idx = df[(df['Issue Type'] == issue_type) & (df['RCA'] == rca)].index
+    idx = df[(df['Issue_Type'] == issue_type) & (df['RCA'] == rca)].index
     if not idx.empty:
         idx = idx[0] 
         if feedback_type == 'Positive':
@@ -68,7 +72,29 @@ def update_feedback_counter(df, issue_type, rca, feedback_type):
         elif feedback_type == 'Negative':
             df.at[idx, 'Negative_Counter'] += 1
         df.to_csv(CSV_FILE_PATH, index=False)
-        st.write(df[issue_type])
+
+    # Connect to SQLite database
+    conn = sqlite3.connect('data.db')
+    cursor = conn.cursor()
+
+    # Update the SQLite table
+    if feedback_type == 'Positive':
+        cursor.execute('''
+            UPDATE data
+            SET Positive_Counter = Positive_Counter + 1
+            WHERE Issue_Type = ? AND RCA = ?
+        ''', (issue_type, rca))
+    elif feedback_type == 'Negative':
+        cursor.execute('''
+            UPDATE data
+            SET Negative_Counter = Negative_Counter + 1
+            WHERE Issue_Type = ? AND RCA = ?
+        ''', (issue_type, rca))
+
+    # Commit the transaction and close the connection
+    conn.commit()
+    conn.close()
+
 
 # Frontend: Continuous Chat Interface
 st.title(TITLE)
@@ -110,32 +136,22 @@ if user_query:
     result, score = search_faiss_vectorstore(user_query, vectorstore, threshold=0.75)
 
     if result:
-        # Prepare the assistant's response
         response = f"**Matched Issue Type:** {result['Issue Type']}\n\n**RCA:** {result['RCA']}\n\n**Steps to Resolve:** {result['Steps to Resolve']}"
         
         # Store the assistant's response in session state
         st.session_state.messages.append({'role': 'assistant', 'content': response})
-        st.session_state.last_result = result  # Store result for thumbs up/down feedback
-        
+        st.session_state.last_result = result 
         # Display the assistant's response
         st.chat_message('assistant').markdown(response)
-        col1, col2 = st.columns([0.066, 1])
+        feedback = st.radio("Was this helpful?", ('👍', '👎'),horizontal=True,index=None)
 
-        with col1:
-            if st.button("👍", key="thumbs_up"):
-                update_feedback_counter(df, result['issue type'], result['rca'], 'positive')
-                st.chat_message('assistant').markdown("positve")
-                # st.success("Thank you for your positive feedback!")
+        # Update the counters based on feedback
+        if feedback == '👍':
+            update_feedback_counter(df, result['Issue_Type'], result['RCA'], 'Positive')
+        elif feedback == '👎':
+            update_feedback_counter(df, result['Issue_Type'], result['RCA'], 'Negative')
 
-
-        with col2:
-            if st.button("👎", key="thumbs_down"):
-                update_feedback_counter(df, result['issue type'], result['rca'], 'negative')
-                # st.error("Thank you for your feedback. We'll strive to improve.")
-                st.chat_message('assistant').markdown("negative")
-
-
-        
+       
     else:
         # If no match is found, provide an alternate response
         st.session_state.messages.append({'role': 'assistant', 'content': "No matching issue found. Creating a JIRA ticket..."})
