@@ -1,0 +1,1101 @@
+Incident Id,Issue Type,RCA,Steps to Resolve,Tags,Positive_Counter,Negative_Counter
+10001,Login Failure,Misconfiguration of authentication API,Reset authentication settings and redeploy configuration.,"Authentication, API",0,0
+10002,Database Timeout,Query optimization required,Optimized SQL query and added indexing.,"Database, SQL",0,0
+10003,API Timeout,Network latency,Increased timeout settings and improved error handling.,"API, Network",0,0
+10004,Memory Leak,Inefficient memory management in code,Refactored code to handle memory allocation properly.,"Memory, Code Fix",0,0
+10005,Data Corruption,Improper data serialization,Implemented data validation and corrected serialization.,"Data, Serialization",0,0
+10006,UI Not Responsive,Poor performance in front-end,Optimized front-end code and used lazy loading.,"UI, Performance",0,0
+10007,API Authentication,Expired token,Refreshed tokens and updated token expiration settings.,"API, Authentication",0,0
+10008,High CPU Usage,Infinite loop in code,Fixed loop condition to terminate correctly.,"CPU, Code Issue",0,0
+10009,File Upload Failure,Incorrect file format validation,Updated file validation rules and allowed correct formats.,"File, Validation",0,0
+10010,Service Crash,Unhandled exception in service logic,Added exception handling and logging.,"Service, Crash",0,0
+10011,Login Failure,Misconfiguration of authentication API,Reset authentication settings and redeploy configuration.,"Authentication, API",0,0
+10012,Database Timeout,Query optimization required,Optimized SQL query and added indexing.,"Database, SQL",0,0
+10013,API Timeout,Network latency,Increased timeout settings and improved error handling.,"API, Network",0,0
+10014,Memory Leak,Inefficient memory management in code,Refactored code to handle memory allocation properly.,"Memory, Code Fix",0,0
+10015,Data Corruption,Improper data serialization,Implemented data validation and corrected serialization.,"Data, Serialization",0,0
+10016,UI Not Responsive,Poor performance in front-end,Optimized front-end code and used lazy loading.,"UI, Performance",0,0
+10017,API Authentication,Expired token,Refreshed tokens and updated token expiration settings.,"API, Authentication",0,0
+10018,High CPU Usage,Infinite loop in code,Fixed loop condition to terminate correctly.,"CPU, Code Issue",0,0
+10019,File Upload Failure,Incorrect file format validation,Updated file validation rules and allowed correct formats.,"File, Validation",0,0
+10020,Service Crash,Unhandled exception in service logic,Added exception handling and logging.,"Service, Crash",0,0
+10021,Login Failure,Misconfiguration of authentication API,Reset authentication settings and redeploy configuration.,"Authentication, API",0,0
+10022,Database Timeout,Query optimization required,Optimized SQL query and added indexing.,"Database, SQL",0,0
+10023,API Timeout,Network latency,Increased timeout settings and improved error handling.,"API, Network",0,0
+10024,Memory Leak,Inefficient memory management in code,Refactored code to handle memory allocation properly.,"Memory, Code Fix",0,0
+10025,Data Corruption,Improper data serialization,Implemented data validation and corrected serialization.,"Data, Serialization",0,0
+10026,UI Not Responsive,Poor performance in front-end,Optimized front-end code and used lazy loading.,"UI, Performance",0,0
+10027,API Authentication,Expired token,Refreshed tokens and updated token expiration settings.,"API, Authentication",0,0
+10028,High CPU Usage,Infinite loop in code,Fixed loop condition to terminate correctly.,"CPU, Code Issue",0,0
+10029,File Upload Failure,Incorrect file format validation,Updated file validation rules and allowed correct formats.,"File, Validation",0,0
+10030,Service Crash,Unhandled exception in service logic,Added exception handling and logging.,"Service, Crash",0,0
+10031,Login Failure,Misconfiguration of authentication API,Reset authentication settings and redeploy configuration.,"Authentication, API",0,0
+10032,Database Timeout,Query optimization required,Optimized SQL query and added indexing.,"Database, SQL",0,0
+10033,API Timeout,Network latency,Increased timeout settings and improved error handling.,"API, Network",0,0
+10034,Memory Leak,Inefficient memory management in code,Refactored code to handle memory allocation properly.,"Memory, Code Fix",0,0
+10035,Data Corruption,Improper data serialization,Implemented data validation and corrected serialization.,"Data, Serialization",0,0
+10036,UI Not Responsive,Poor performance in front-end,Optimized front-end code and used lazy loading.,"UI, Performance",0,0
+10037,API Authentication,Expired token,Refreshed tokens and updated token expiration settings.,"API, Authentication",0,0
+10038,High CPU Usage,Infinite loop in code,Fixed loop condition to terminate correctly.,"CPU, Code Issue",0,0
+10039,File Upload Failure,Incorrect file format validation,Updated file validation rules and allowed correct formats.,"File, Validation",0,0
+10040,Service Crash,Unhandled exception in service logic,Added exception handling and logging.,"Service, Crash",0,0
+10041,Login Failure,Misconfiguration of authentication API,Reset authentication settings and redeploy configuration.,"Authentication, API",0,0
+10042,Database Timeout,Query optimization required,Optimized SQL query and added indexing.,"Database, SQL",0,0
+10043,API Timeout,Network latency,Increased timeout settings and improved error handling.,"API, Network",0,0
+10044,Memory Leak,Inefficient memory management in code,Refactored code to handle memory allocation properly.,"Memory, Code Fix",0,0
+10045,Data Corruption,Improper data serialization,Implemented data validation and corrected serialization.,"Data, Serialization",0,0
+10046,UI Not Responsive,Poor performance in front-end,Optimized front-end code and used lazy loading.,"UI, Performance",0,0
+10047,API Authentication,Expired token,Refreshed tokens and updated token expiration settings.,"API, Authentication",0,0
+10048,High CPU Usage,Infinite loop in code,Fixed loop condition to terminate correctly.,"CPU, Code Issue",0,0
+10049,File Upload Failure,Incorrect file format validation,Updated file validation rules and allowed correct formats.,"File, Validation",0,0
+10050,Service Crash,Unhandled exception in service logic,Added exception handling and logging.,"Service, Crash",0,0
+10051,Login Failure,Misconfiguration of authentication API,Reset authentication settings and redeploy configuration.,"Authentication, API",0,0
+10052,Database Timeout,Query optimization required,Optimized SQL query and added indexing.,"Database, SQL",0,0
+10053,API Timeout,Network latency,Increased timeout settings and improved error handling.,"API, Network",0,0
+10054,Memory Leak,Inefficient memory management in code,Refactored code to handle memory allocation properly.,"Memory, Code Fix",0,0
+10055,Data Corruption,Improper data serialization,Implemented data validation and corrected serialization.,"Data, Serialization",0,0
+10056,UI Not Responsive,Poor performance in front-end,Optimized front-end code and used lazy loading.,"UI, Performance",0,0
+10057,API Authentication,Expired token,Refreshed tokens and updated token expiration settings.,"API, Authentication",0,0
+10058,High CPU Usage,Infinite loop in code,Fixed loop condition to terminate correctly.,"CPU, Code Issue",0,0
+10059,File Upload Failure,Incorrect file format validation,Updated file validation rules and allowed correct formats.,"File, Validation",0,0
+10060,Service Crash,Unhandled exception in service logic,Added exception handling and logging.,"Service, Crash",0,0
+10061,Login Failure,Misconfiguration of authentication API,Reset authentication settings and redeploy configuration.,"Authentication, API",0,0
+10062,Database Timeout,Query optimization required,Optimized SQL query and added indexing.,"Database, SQL",0,0
+10063,API Timeout,Network latency,Increased timeout settings and improved error handling.,"API, Network",0,0
+10064,Memory Leak,Inefficient memory management in code,Refactored code to handle memory allocation properly.,"Memory, Code Fix",0,0
+10065,Data Corruption,Improper data serialization,Implemented data validation and corrected serialization.,"Data, Serialization",0,0
+10066,UI Not Responsive,Poor performance in front-end,Optimized front-end code and used lazy loading.,"UI, Performance",0,0
+10067,API Authentication,Expired token,Refreshed tokens and updated token expiration settings.,"API, Authentication",0,0
+10068,High CPU Usage,Infinite loop in code,Fixed loop condition to terminate correctly.,"CPU, Code Issue",0,0
+10069,File Upload Failure,Incorrect file format validation,Updated file validation rules and allowed correct formats.,"File, Validation",0,0
+10070,Service Crash,Unhandled exception in service logic,Added exception handling and logging.,"Service, Crash",0,0
+10071,Login Failure,Misconfiguration of authentication API,Reset authentication settings and redeploy configuration.,"Authentication, API",0,0
+10072,Database Timeout,Query optimization required,Optimized SQL query and added indexing.,"Database, SQL",0,0
+10073,API Timeout,Network latency,Increased timeout settings and improved error handling.,"API, Network",0,0
+10074,Memory Leak,Inefficient memory management in code,Refactored code to handle memory allocation properly.,"Memory, Code Fix",0,0
+10075,Data Corruption,Improper data serialization,Implemented data validation and corrected serialization.,"Data, Serialization",0,0
+10076,UI Not Responsive,Poor performance in front-end,Optimized front-end code and used lazy loading.,"UI, Performance",0,0
+10077,API Authentication,Expired token,Refreshed tokens and updated token expiration settings.,"API, Authentication",0,0
+10078,High CPU Usage,Infinite loop in code,Fixed loop condition to terminate correctly.,"CPU, Code Issue",0,0
+10079,File Upload Failure,Incorrect file format validation,Updated file validation rules and allowed correct formats.,"File, Validation",0,0
+10080,Service Crash,Unhandled exception in service logic,Added exception handling and logging.,"Service, Crash",0,0
+10081,Login Failure,Misconfiguration of authentication API,Reset authentication settings and redeploy configuration.,"Authentication, API",0,0
+10082,Database Timeout,Query optimization required,Optimized SQL query and added indexing.,"Database, SQL",0,0
+10083,API Timeout,Network latency,Increased timeout settings and improved error handling.,"API, Network",0,0
+10084,Memory Leak,Inefficient memory management in code,Refactored code to handle memory allocation properly.,"Memory, Code Fix",0,0
+10085,Data Corruption,Improper data serialization,Implemented data validation and corrected serialization.,"Data, Serialization",0,0
+10086,UI Not Responsive,Poor performance in front-end,Optimized front-end code and used lazy loading.,"UI, Performance",0,0
+10087,API Authentication,Expired token,Refreshed tokens and updated token expiration settings.,"API, Authentication",0,0
+10088,High CPU Usage,Infinite loop in code,Fixed loop condition to terminate correctly.,"CPU, Code Issue",0,0
+10089,File Upload Failure,Incorrect file format validation,Updated file validation rules and allowed correct formats.,"File, Validation",0,0
+10090,Service Crash,Unhandled exception in service logic,Added exception handling and logging.,"Service, Crash",0,0
+10091,Login Failure,Misconfiguration of authentication API,Reset authentication settings and redeploy configuration.,"Authentication, API",0,0
+10092,Database Timeout,Query optimization required,Optimized SQL query and added indexing.,"Database, SQL",0,0
+10093,API Timeout,Network latency,Increased timeout settings and improved error handling.,"API, Network",0,0
+10094,Memory Leak,Inefficient memory management in code,Refactored code to handle memory allocation properly.,"Memory, Code Fix",0,0
+10095,Data Corruption,Improper data serialization,Implemented data validation and corrected serialization.,"Data, Serialization",0,0
+10096,UI Not Responsive,Poor performance in front-end,Optimized front-end code and used lazy loading.,"UI, Performance",0,0
+10097,API Authentication,Expired token,Refreshed tokens and updated token expiration settings.,"API, Authentication",0,0
+10098,High CPU Usage,Infinite loop in code,Fixed loop condition to terminate correctly.,"CPU, Code Issue",0,0
+10099,File Upload Failure,Incorrect file format validation,Updated file validation rules and allowed correct formats.,"File, Validation",0,0
+10100,Service Crash,Unhandled exception in service logic,Added exception handling and logging.,"Service, Crash",0,0
+20001,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20002,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20003,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20004,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20005,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20006,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20007,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20008,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",9,0
+20009,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20010,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20011,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20012,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20013,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20014,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20015,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20016,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20017,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20018,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20019,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20020,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20021,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20022,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20023,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20024,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20025,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20026,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20027,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20028,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20029,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20030,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20031,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20032,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20033,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20034,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20035,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20036,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20037,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20038,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20039,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20040,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20041,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20042,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20043,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20044,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20045,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20046,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20047,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20048,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20049,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20050,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20051,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20052,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20053,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20054,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20055,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20056,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20057,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20058,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20059,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20060,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20061,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20062,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20063,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20064,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20065,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20066,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20067,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20068,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20069,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20070,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20071,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20072,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20073,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20074,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20075,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20076,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20077,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20078,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20079,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20080,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20081,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20082,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20083,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20084,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20085,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20086,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20087,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20088,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20089,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20090,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20091,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20092,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20093,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20094,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20095,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20096,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20097,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20098,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20099,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20100,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20101,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20102,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20103,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20104,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20105,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20106,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20107,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20108,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20109,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20110,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20111,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20112,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20113,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20114,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20115,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20116,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20117,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20118,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20119,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20120,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20121,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20122,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20123,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20124,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20125,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20126,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20127,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20128,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20129,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20130,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20131,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20132,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20133,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20134,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20135,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20136,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20137,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20138,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20139,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20140,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20141,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20142,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20143,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20144,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20145,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20146,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20147,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20148,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20149,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20150,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20151,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20152,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20153,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20154,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20155,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20156,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20157,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20158,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20159,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20160,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20161,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20162,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20163,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20164,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20165,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20166,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20167,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20168,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20169,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20170,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20171,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20172,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20173,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20174,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20175,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20176,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20177,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20178,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20179,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20180,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20181,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20182,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20183,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20184,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20185,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20186,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20187,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20188,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20189,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20190,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20191,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20192,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20193,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20194,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20195,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20196,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20197,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20198,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20199,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20200,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20201,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20202,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20203,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20204,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20205,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20206,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20207,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20208,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20209,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20210,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20211,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20212,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20213,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20214,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20215,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20216,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20217,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20218,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20219,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20220,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20221,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20222,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20223,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20224,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20225,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20226,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20227,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20228,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20229,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20230,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20231,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20232,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20233,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20234,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20235,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20236,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20237,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20238,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20239,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20240,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20241,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20242,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20243,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20244,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20245,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20246,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20247,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20248,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20249,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20250,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20251,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20252,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20253,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20254,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20255,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20256,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20257,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20258,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20259,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20260,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20261,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20262,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20263,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20264,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20265,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20266,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20267,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20268,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20269,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20270,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20271,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20272,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20273,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20274,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20275,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20276,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20277,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20278,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20279,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20280,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20281,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20282,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20283,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20284,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20285,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20286,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20287,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20288,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20289,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20290,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20291,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20292,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20293,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20294,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20295,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20296,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20297,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20298,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20299,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20300,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20301,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20302,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20303,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20304,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20305,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20306,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20307,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20308,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20309,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20310,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20311,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20312,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20313,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20314,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20315,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20316,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20317,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20318,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20319,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20320,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20321,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20322,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20323,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20324,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20325,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20326,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20327,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20328,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20329,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20330,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20331,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20332,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20333,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20334,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20335,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20336,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20337,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20338,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20339,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20340,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20341,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20342,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20343,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20344,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20345,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20346,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20347,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20348,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20349,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20350,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20351,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20352,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20353,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20354,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20355,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20356,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20357,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20358,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20359,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20360,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20361,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20362,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20363,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20364,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20365,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20366,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20367,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20368,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20369,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20370,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20371,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20372,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20373,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20374,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20375,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20376,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20377,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20378,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20379,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20380,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20381,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20382,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20383,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20384,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20385,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20386,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20387,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20388,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20389,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20390,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20391,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20392,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20393,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20394,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20395,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20396,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20397,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20398,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20399,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20400,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20401,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20402,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20403,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20404,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20405,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20406,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20407,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20408,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20409,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20410,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20411,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20412,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20413,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20414,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20415,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20416,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20417,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20418,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20419,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20420,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20421,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20422,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20423,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20424,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20425,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20426,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20427,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20428,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20429,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20430,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20431,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20432,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20433,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20434,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20435,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20436,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20437,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20438,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20439,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20440,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20441,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20442,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20443,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20444,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20445,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20446,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20447,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20448,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20449,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20450,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20451,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20452,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20453,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20454,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20455,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20456,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20457,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20458,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20459,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20460,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20461,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20462,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20463,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20464,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20465,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20466,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20467,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20468,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20469,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20470,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20471,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20472,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20473,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20474,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20475,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20476,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20477,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20478,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20479,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20480,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20481,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20482,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20483,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20484,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20485,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20486,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20487,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20488,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20489,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20490,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20491,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20492,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20493,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20494,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20495,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20496,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20497,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20498,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20499,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20500,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20501,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20502,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20503,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20504,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20505,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20506,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20507,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20508,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20509,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20510,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20511,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20512,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20513,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20514,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20515,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20516,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20517,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20518,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20519,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20520,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20521,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20522,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20523,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20524,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20525,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20526,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20527,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20528,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20529,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20530,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20531,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20532,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20533,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20534,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20535,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20536,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20537,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20538,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20539,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20540,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20541,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20542,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20543,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20544,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20545,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20546,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20547,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20548,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20549,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20550,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20551,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20552,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20553,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20554,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20555,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20556,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20557,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20558,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20559,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20560,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20561,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20562,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20563,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20564,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20565,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20566,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20567,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20568,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20569,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20570,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20571,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20572,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20573,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20574,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20575,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20576,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20577,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20578,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20579,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20580,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20581,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20582,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20583,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20584,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20585,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20586,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20587,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20588,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20589,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20590,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20591,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20592,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20593,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20594,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20595,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20596,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20597,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20598,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20599,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20600,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20601,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20602,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20603,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20604,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20605,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20606,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20607,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20608,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20609,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20610,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20611,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20612,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20613,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20614,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20615,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20616,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20617,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20618,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20619,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20620,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20621,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20622,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20623,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20624,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20625,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20626,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20627,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20628,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20629,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20630,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20631,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20632,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20633,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20634,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20635,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20636,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20637,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20638,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20639,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20640,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20641,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20642,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20643,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20644,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20645,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20646,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20647,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20648,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20649,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20650,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20651,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20652,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20653,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20654,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20655,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20656,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20657,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20658,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20659,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20660,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20661,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20662,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20663,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20664,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20665,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20666,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20667,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20668,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20669,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20670,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20671,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20672,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20673,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20674,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20675,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20676,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20677,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20678,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20679,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20680,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20681,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20682,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20683,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20684,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20685,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20686,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20687,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20688,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20689,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20690,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20691,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20692,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20693,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20694,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20695,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20696,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20697,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20698,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20699,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20700,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20701,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20702,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20703,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20704,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20705,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20706,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20707,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20708,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20709,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20710,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20711,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20712,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20713,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20714,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20715,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20716,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20717,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20718,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20719,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20720,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20721,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20722,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20723,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20724,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20725,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20726,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20727,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20728,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20729,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20730,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20731,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20732,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20733,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20734,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20735,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20736,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20737,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20738,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20739,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20740,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20741,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20742,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20743,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20744,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20745,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20746,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20747,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20748,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20749,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20750,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20751,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20752,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20753,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20754,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20755,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20756,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20757,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20758,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20759,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20760,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20761,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20762,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20763,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20764,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20765,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20766,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20767,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20768,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20769,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20770,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20771,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20772,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20773,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20774,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20775,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20776,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20777,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20778,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20779,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20780,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20781,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20782,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20783,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20784,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20785,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20786,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20787,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20788,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20789,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20790,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20791,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20792,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20793,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20794,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20795,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20796,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20797,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20798,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20799,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20800,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20801,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20802,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20803,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20804,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20805,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20806,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20807,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20808,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20809,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20810,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20811,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20812,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20813,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20814,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20815,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20816,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20817,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20818,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20819,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20820,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20821,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20822,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20823,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20824,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20825,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20826,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20827,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20828,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20829,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20830,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20831,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20832,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20833,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20834,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20835,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20836,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20837,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20838,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20839,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20840,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20841,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20842,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20843,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20844,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20845,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20846,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20847,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20848,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20849,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20850,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20851,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20852,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20853,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20854,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20855,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20856,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20857,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20858,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20859,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20860,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20861,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20862,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20863,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20864,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20865,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20866,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20867,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20868,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20869,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20870,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20871,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20872,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20873,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20874,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20875,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20876,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20877,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20878,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20879,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20880,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20881,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20882,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20883,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20884,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20885,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20886,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20887,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20888,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20889,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20890,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20891,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20892,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20893,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20894,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20895,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20896,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20897,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20898,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20899,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20900,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20901,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20902,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20903,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20904,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20905,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20906,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20907,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20908,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20909,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20910,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20911,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20912,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20913,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20914,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20915,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20916,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20917,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20918,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20919,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20920,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20921,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20922,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20923,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20924,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20925,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20926,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20927,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20928,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20929,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20930,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20931,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20932,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20933,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20934,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20935,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20936,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20937,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20938,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20939,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20940,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20941,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20942,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20943,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20944,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20945,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20946,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20947,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20948,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20949,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20950,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20951,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20952,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20953,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20954,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20955,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20956,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20957,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20958,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20959,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20960,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20961,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20962,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20963,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20964,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20965,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20966,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20967,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20968,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20969,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20970,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20971,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20972,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20973,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20974,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20975,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20976,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20977,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20978,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20979,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20980,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20981,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20982,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20983,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20984,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20985,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20986,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20987,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20988,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20989,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+20990,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
+20991,Overheating,Blocked air vents causing heat buildup,Cleaned air vents and replaced thermal paste.,"Overheating, Air Vents",0,0
+20992,Hard Drive Failure,Mechanical failure of hard drive components,Replaced hard drive and restored data from backup.,"Hard Drive, Failure",0,0
+20993,Power Supply Failure,Power supply unit burnout,Replaced power supply unit with a new one.,"Power Supply, Burnout",0,0
+20994,Network Connectivity,Faulty network card,Replaced network card and updated drivers.,"Network, Connectivity",0,0
+20995,Battery Drain,Battery degradation,Replaced battery with a new one.,"Battery, Degradation",0,0
+20996,Fan Malfunction,Fan motor burnout,Replaced faulty fan.,"Fan, Malfunction",0,0
+20997,Screen Flickering,Loose display cable,Reconnected display cable and tightened connections.,"Screen, Display",0,0
+20998,Keyboard Unresponsive,Faulty keyboard controller,Replaced faulty keyboard.,"Keyboard, Unresponsive",0,0
+20999,USB Port Failure,Damaged USB port pins,Repaired USB port pins and tested connections.,"USB, Port Failure",0,0
+21000,Motherboard Short Circuit,Capacitor failure on motherboard,Replaced capacitors and tested motherboard.,"Motherboard, Short Circuit",0,0
